@@ -16,8 +16,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=samaa825&theme=dark&hide_border=false)<br/>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samaa825&icon=0&color=0)](https://visitcount.itsvg.in)
